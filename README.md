@@ -11,3 +11,5 @@ Designing a Machine Learning Workflow
 Exploring the Mathematics of a Dataset
 ### Week 5 Assignment
 Building a First Supervised Machine Learning Model
+### Week 6 Assignment
+Unsupervised Machine Learning: Discovering Patterns in Data
